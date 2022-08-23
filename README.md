@@ -2,13 +2,16 @@
 ----------
 This project is for generating atributes of character to known pen and paper
 tabletop RPG game Shadowrun 4th edition.
-
+<br />  
 To match the point system, I used **<font color='BLUE'>rozvaha_atr.xls </font>**
+<br />  
 to see data in VsCode, install the **<font color='BLUE'>Excel Viewer v4.2.55</font>** to Your VsCode extensions
-
-NOW is under construction
+<br />  
+----------
+### NOW is under construction
 
 my notes from previous version:
+<br />  
 
 
 
