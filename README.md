@@ -6,6 +6,10 @@ tabletop RPG game Shadowrun 4th edition.
 To match the point system, I used **<font color='BLUE'>rozvaha_atr.xls </font>**
 to see data in VsCode, install the **<font color='BLUE'>Excel Viewer v4.2.55</font>** to Your VsCode extensions
 
+NOW is under construction
+
+my notes from previous version:
+
 
 
 
