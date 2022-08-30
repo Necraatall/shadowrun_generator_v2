@@ -11,13 +11,11 @@ class Product:
         self.cur.execute(
         """CREATE TABLE IF NOT EXISTS products(
         date DATE,
-        category TEXT
+        category TEXT,
         storage TEXT,
         name TEXT, 
         price REAL,
-        link TEXT)
-        """
-        )
+        link TEXT)""")
 
     def insert(self, item):
         self.cur.execute("""INSERT OR IGNORE INTO products VALUES(?,?,?,?,?,?)""", item)

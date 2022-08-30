@@ -9,7 +9,7 @@ db = Product()
 
 # we have 6 columns in the table and need 6 matching bits of date: 
 '''
-date DATE UNIQUE PRIMARY KEY,
+date DATE PRIMARY KEY,
 category TEXT,
 store TEXT,
 name TEXT,
@@ -18,12 +18,12 @@ link TEXT
 '''
 
 # matching data
-item = (f'{today}', 
+item = (today, 
     'T-Shirts',
     'Awesome tshirts',
     'Black Logo Tee',
     '24.99',
-    'seznam'
+    'seznam',
 )
 
 # insert the data above into the table using method we called insert
